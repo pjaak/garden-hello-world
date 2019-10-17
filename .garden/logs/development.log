@@ -174,3 +174,45 @@
 
 [2019-10-17T22:36:24.626Z] 
 🕑  Waiting for code changes...
+
+[2019-10-17T23:00:42.715Z] Getting status...
+
+[2019-10-17T23:00:44.435Z] Getting status... → Done
+
+[2019-10-17T23:00:44.606Z] Preparing build (3 files)...
+
+[2019-10-17T23:00:44.623Z] Getting build status for v-9c35805b27...
+
+[2019-10-17T23:00:44.754Z] Getting build status for v-9c35805b27... → Done (took 0.1 sec)
+
+[2019-10-17T23:00:44.766Z] Deploying version v-9c35805b27...
+
+[2019-10-17T23:00:44.768Z] Deploying version v-9c35805b27... → Version v-9c35805b27 already deployed
+
+[2019-10-17T23:00:44.772Z] → Ingress: https://local.elmodev.com
+
+[2019-10-17T23:00:44.785Z] Done! ✔️ 
+
+[2019-10-17T23:00:45.762Z] Getting status...
+
+[2019-10-17T23:00:47.874Z] Getting status... → Done
+
+[2019-10-17T23:00:48.208Z] 
+⏳  Processing...
+
+[2019-10-17T23:00:48.301Z] Preparing build (3 files)...
+
+[2019-10-17T23:00:48.339Z] Getting build status for v-9c35805b27...
+
+[2019-10-17T23:00:48.519Z] Getting build status for v-9c35805b27... → Done (took 0.2 sec)
+
+[2019-10-17T23:00:48.690Z] Deploying version v-9c35805b27...
+
+[2019-10-17T23:00:48.697Z] Deploying version v-9c35805b27... → Version v-9c35805b27 already deployed
+
+[2019-10-17T23:00:48.708Z] → Ingress: https://local.elmodev.com
+
+[2019-10-17T23:00:48.724Z] → Forward: http://localhost:54768 → hello-world:8080 (http)
+
+[2019-10-17T23:00:48.768Z] 
+🕑  Waiting for code changes...

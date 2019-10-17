@@ -6,6 +6,8 @@ echo ${pwd}
 echo "Starting local dev environment (Starting minikube)"
 minikube start
 
+kubectl create namespace elmo-garden
+
 
 echo "Updating hosts file"
 
