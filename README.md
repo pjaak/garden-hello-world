@@ -7,3 +7,8 @@ Prerequisites:
 - mkcert
 - garden-cli
 
+Instructions:
+
+- Please run ./up on your local machine.
+- This will bring up the whole stack in a local minikube environment for you.
+- It will setup the hosts aswell.
