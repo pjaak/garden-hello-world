@@ -31,6 +31,8 @@ mkcert -install
 kubectl delete secret tls-local-elmodev --namespace elmo-garden
 kubectl create secret tls tls-local-elmodev --key "${pwd}"/local-elmodev-key.pem --cert "${pwd}"/local-elmodev.pem --namespace elmo-garden
 
+rm -rf local-*
+
 
 echo "Sleeping for 15 seconds... Waiting for minikube"
 sleep 15
