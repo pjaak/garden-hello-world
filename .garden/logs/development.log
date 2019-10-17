@@ -1,0 +1,136 @@
+
+[2019-10-17T22:21:12.442Z] Getting status...
+
+[2019-10-17T22:21:14.514Z] Getting status... → Done
+
+[2019-10-17T22:22:16.390Z] Getting status...
+
+[2019-10-17T22:22:18.058Z] Getting status... → Done
+
+[2019-10-17T22:22:18.230Z] Preparing build (3 files)...
+
+[2019-10-17T22:22:18.246Z] Getting build status for v-57bbaacaec...
+
+[2019-10-17T22:22:18.554Z] Building version v-57bbaacaec...
+
+[2019-10-17T22:22:18.556Z] Building hello-world:v-57bbaacaec...
+
+[2019-10-17T22:22:18.795Z] Building hello-world:v-57bbaacaec... → Done (took 0.6 sec)
+
+[2019-10-17T22:22:18.805Z] Deploying version v-57bbaacaec...
+
+[2019-10-17T22:22:20.521Z] Waiting for resources to be ready...
+
+[2019-10-17T22:22:22.573Z] Deployment/hello-world-v-57bbaacaec: Started container hello-world
+
+[2019-10-17T22:22:25.106Z] Resources ready
+
+[2019-10-17T22:22:25.178Z] Deploying version v-57bbaacaec... → Done (took 6.4 sec)
+
+[2019-10-17T22:22:25.182Z] → Ingress: https://local.elmodev.com
+
+[2019-10-17T22:22:25.191Z] Done! ✔️ 
+
+[2019-10-17T22:24:55.789Z] Getting status...
+
+[2019-10-17T22:24:57.466Z] Getting status... → Done
+
+[2019-10-17T22:24:57.640Z] Preparing build (3 files)...
+
+[2019-10-17T22:24:57.655Z] Getting build status for v-57bbaacaec...
+
+[2019-10-17T22:24:57.788Z] Getting build status for v-57bbaacaec... → Done (took 0.1 sec)
+
+[2019-10-17T22:24:57.801Z] Deploying version v-57bbaacaec...
+
+[2019-10-17T22:24:57.803Z] Deploying version v-57bbaacaec... → Version v-57bbaacaec already deployed
+
+[2019-10-17T22:24:57.807Z] → Ingress: https://local.elmodev.com
+
+[2019-10-17T22:28:42.270Z] Getting status...
+
+[2019-10-17T22:28:43.947Z] Getting status... → Done
+
+[2019-10-17T22:28:44.142Z] Preparing build (3 files)...
+
+[2019-10-17T22:28:44.157Z] Getting build status for v-57bbaacaec...
+
+[2019-10-17T22:28:44.296Z] Getting build status for v-57bbaacaec... → Done (took 0.2 sec)
+
+[2019-10-17T22:28:44.310Z] Deploying version v-57bbaacaec...
+
+[2019-10-17T22:28:44.312Z] Deploying version v-57bbaacaec... → Version v-57bbaacaec already deployed
+
+[2019-10-17T22:28:44.316Z] → Ingress: https://local.elmodev.com
+
+[2019-10-17T22:28:44.331Z] Done! ✔️ 
+
+[2019-10-17T22:30:12.579Z] Getting status...
+
+[2019-10-17T22:30:14.339Z] Getting status... → Done
+
+[2019-10-17T22:30:14.520Z] Preparing build (3 files)...
+
+[2019-10-17T22:30:14.535Z] Getting build status for v-57bbaacaec...
+
+[2019-10-17T22:30:14.662Z] Getting build status for v-57bbaacaec... → Done (took 0.1 sec)
+
+[2019-10-17T22:30:14.673Z] Deploying version v-57bbaacaec...
+
+[2019-10-17T22:30:14.675Z] Deploying version v-57bbaacaec... → Version v-57bbaacaec already deployed
+
+[2019-10-17T22:30:14.679Z] → Ingress: https://local.elmodev.com
+
+[2019-10-17T22:30:14.693Z] Done! ✔️ 
+
+[2019-10-17T22:30:15.602Z] Getting status...
+
+[2019-10-17T22:30:17.655Z] Getting status... → Done
+
+[2019-10-17T22:30:17.999Z] 
+⏳  Processing...
+
+[2019-10-17T22:30:18.087Z] Preparing build (3 files)...
+
+[2019-10-17T22:30:18.121Z] Getting build status for v-57bbaacaec...
+
+[2019-10-17T22:30:18.278Z] Getting build status for v-57bbaacaec... → Done (took 0.2 sec)
+
+[2019-10-17T22:30:18.438Z] Deploying version v-57bbaacaec...
+
+[2019-10-17T22:30:18.444Z] Deploying version v-57bbaacaec... → Version v-57bbaacaec already deployed
+
+[2019-10-17T22:30:18.452Z] → Ingress: https://local.elmodev.com
+
+[2019-10-17T22:30:18.466Z] → Forward: http://localhost:54268 → hello-world:8080 (http)
+
+[2019-10-17T22:30:18.509Z] 
+🕑  Waiting for code changes...
+
+[2019-10-17T22:31:06.425Z] 
+⏳  Processing...
+
+[2019-10-17T22:31:06.562Z] Preparing build (3 files)...
+
+[2019-10-17T22:31:06.612Z] Building version v-9c35805b27...
+
+[2019-10-17T22:31:06.639Z] Building hello-world:v-9c35805b27...
+
+[2019-10-17T22:31:10.209Z] Building hello-world:v-9c35805b27... → Done (took 3.6 sec)
+
+[2019-10-17T22:31:10.301Z] Deploying version v-9c35805b27...
+
+[2019-10-17T22:31:11.956Z] Waiting for resources to be ready...
+
+[2019-10-17T22:31:14.068Z] Deployment/hello-world-v-9c35805b27: Started container hello-world
+
+[2019-10-17T22:31:16.639Z] Resources ready
+
+[2019-10-17T22:31:16.797Z] Deploying version v-9c35805b27... → Done (took 6.5 sec)
+
+[2019-10-17T22:31:16.805Z] → Ingress: https://local.elmodev.com
+
+[2019-10-17T22:31:16.812Z] → Forward: http://localhost:54268 → hello-world:8080 (http)
+
+[2019-10-17T22:31:16.852Z] 
+🕑  Waiting for code changes...

@@ -1,0 +1,16 @@
+kind: Module
+name: hello-world
+description: Hello world container
+type: container
+services:
+  - name: hello-world
+    ports:
+      - name: http
+        containerPort: 8080
+    healthCheck:
+      httpGet:
+        path: /
+        port: http
+    ingresses:
+      - path: /
+        port: http

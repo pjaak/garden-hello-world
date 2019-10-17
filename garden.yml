@@ -1,0 +1,13 @@
+kind: Project
+name: elmo-garden
+environments:
+  - name: local
+    providers:
+      - name: local-kubernetes
+        defaultHostname: local.elmodev.com
+        tlsCertificates:
+        - name: tls-local-elmodev
+          secretRef:
+            name: tls-local-elmodev
+            namespace: elmo-garden
+
