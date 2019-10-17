@@ -34,7 +34,7 @@ kubectl create secret tls tls-local-elmodev --key "${pwd}"/local-elmodev-key.pem
 rm -rf local-*
 
 
-echo "Sleeping for 15 seconds... Waiting for minikube"
+echo "Sleeping for 15 seconds...Waiting for minikube"
 sleep 15
 
 echo "Running garden deploy - This will deploy the stack"
